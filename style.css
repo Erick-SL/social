@@ -23,13 +23,6 @@
     src: url(assets/fonts/static/Inter-SemiBold.ttf);
 }
 
-body {
-    min-height: 100vh;
-    display: flex; 
-    justify-content: center;
-    align-items: center;
-}
-
 section{
     background-color: rgb(19, 19, 19);
     width: 100%;
